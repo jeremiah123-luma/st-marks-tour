@@ -1,0 +1,484 @@
+{
+ "files": [
+  {
+   "path": "textures/windows/abraham.jpg",
+   "width": 461,
+   "height": 2048,
+   "source": "reference/windows/IMG_1928.jpeg",
+   "quality": "good",
+   "note": "rectified to the glass only (outer lead line of the wheat border), black outside the arch, mullion bars kept; panel exposure gains [0.95, 1.0, 1.05]."
+  },
+  {
+   "path": "textures/windows/david.jpg",
+   "width": 467,
+   "height": 2048,
+   "source": "reference/windows/IMG_1929.jpeg",
+   "quality": "good",
+   "note": "rectified to the glass only (outer lead line of the wheat border), black outside the arch, mullion bars kept; panel exposure gains [0.98, 1.0, 1.08]."
+  },
+  {
+   "path": "textures/windows/three_youths.jpg",
+   "width": 470,
+   "height": 2048,
+   "source": "reference/windows/IMG_1930.jpeg",
+   "quality": "good",
+   "note": "rectified to the glass only (outer lead line of the wheat border), black outside the arch, mullion bars kept; panel exposure gains [1.0, 1.18]."
+  },
+  {
+   "path": "textures/windows/moses.jpg",
+   "width": 473,
+   "height": 2048,
+   "source": "reference/windows/IMG_1931.jpeg",
+   "quality": "good",
+   "note": "rectified to the glass only (outer lead line of the wheat border), black outside the arch, mullion bars kept; panel exposure gains [1.0, 0.93, 1.04].  Owner confirmed the subject is Moses."
+  },
+  {
+   "path": "textures/windows/daniel.jpg",
+   "width": 436,
+   "height": 2048,
+   "source": "reference/windows/IMG_1932.jpeg",
+   "quality": "ok",
+   "note": "rectified to the glass only (outer lead line of the wheat border), black outside the arch, mullion bars kept; panel exposure gains [0.91, 1.0, 1.15].  RETOUCHED (owner request): source IMG_1932 had the lower two thirds in shade with an interior reflection. Pass 1: reflection veil subtracted, shade gain, robe / wheat border colour rebuilt from the lit pieces of the same glass. Pass 2: lion and floor-tile colour taken from the night photo reference/batch3/IMG_7972.jpg (registered; lightness and lead lines stay from the daylight photo). Lower robe is still blotchy and the lions paler than the real glass; a straight-on daylight photo with the whole window lit would replace the retouch."
+  },
+  {
+   "path": "textures/windows/storm.jpg",
+   "width": 478,
+   "height": 2048,
+   "source": "reference/windows/IMG_1926.jpeg",
+   "quality": "good",
+   "note": "rectified to the glass only (outer lead line of the wheat border), black outside the arch, mullion bars kept; panel exposure gains [1.0, 1.03]."
+  },
+  {
+   "path": "textures/windows/samaritan.jpg",
+   "width": 465,
+   "height": 2048,
+   "source": "reference/windows/IMG_1925.jpeg",
+   "quality": "good",
+   "note": "rectified to the glass only (outer lead line of the wheat border), black outside the arch, mullion bars kept; panel exposure gains [1.0]."
+  },
+  {
+   "path": "textures/windows/egypt.jpg",
+   "width": 471,
+   "height": 2048,
+   "source": "reference/windows/IMG_1922.jpeg",
+   "quality": "good",
+   "note": "rectified to the glass only (outer lead line of the wheat border), black outside the arch, mullion bars kept; panel exposure gains [0.96, 1.0, 1.02]."
+  },
+  {
+   "path": "textures/windows/lazarus.jpg",
+   "width": 477,
+   "height": 2048,
+   "source": "reference/windows/IMG_1923.jpeg",
+   "quality": "good",
+   "note": "rectified to the glass only (outer lead line of the wheat border), black outside the arch, mullion bars kept; panel exposure gains [1.0, 0.95, 1.09]."
+  },
+  {
+   "path": "textures/windows/healing.jpg",
+   "width": 874,
+   "height": 2048,
+   "source": "reference/windows/IMG_1924.jpeg",
+   "quality": "good",
+   "note": "rectified to the glass only (outer lead line of the wheat border), black outside the arch, mullion bars kept; panel exposure gains [1.0, 1.0].  Checked against reference/batch3/IMG_7978.jpg: this is the short right-rear window above the white door (same design: angel in the arch, Christ touching the kneeling man's eyes, one mullion bar)."
+  },
+  {
+   "path": "textures/windows/altar_christ.jpg",
+   "width": 966,
+   "height": 1869,
+   "source": "reference/windows/IMG_2128.jpg",
+   "quality": "good",
+   "note": "glass only, black outside the arch; width:height = 1:1.93. Christ enthroned, centre window of the sanctuary wall. In IMG_2128 the three windows sit on one wall: this tall one in the centre, a small arched window each side, set low (their sills level with this window's sill, their tops at about 37% of its height); centre-to-centre spacing about 1.2x this window's width, each small one about 0.37x its height. Shot from below: height may be slightly compressed."
+  },
+  {
+   "path": "textures/windows/altar_small_left.jpg",
+   "width": 426,
+   "height": 684,
+   "source": "reference/windows/IMG_2128.jpg",
+   "quality": "low",
+   "note": "glass only, black outside the arch; width:height = 1:1.61. small window left of Christ (angel and lion = two of the four living creatures). Separate pane in its own deep niche; seen obliquely, the right wheat border is hidden by the niche wall, so the crop is not the full width."
+  },
+  {
+   "path": "textures/windows/altar_small_right.jpg",
+   "width": 333,
+   "height": 638,
+   "source": "reference/windows/IMG_2128.jpg",
+   "quality": "low",
+   "note": "glass only, black outside the arch; width:height = 1:1.92. small window right of Christ (eagle and ox). Separate pane in its own deep niche; seen obliquely, the left wheat border and part of the glass are hidden by the niche wall, so the crop is not the full width."
+  },
+  {
+   "path": "textures/windows/altar_gabriel.jpg",
+   "width": 455,
+   "height": 2048,
+   "source": "reference/windows/IMG_2748.jpg",
+   "quality": "good",
+   "note": "glass only, black outside the arch; width:height = 1:4.50. Archangel Gabriel, full window with two mullion bars and the ornament panel. Photo shows only this window and its plaster reveal; its place relative to the other sanctuary windows is not visible."
+  },
+  {
+   "path": "textures/windows/altar_mikhail.jpg",
+   "width": 908,
+   "height": 2048,
+   "source": "reference/windows/IMG_2752.jpg",
+   "quality": "ok",
+   "note": "glass only, black outside the arch; width:height = 1:2.26. Archangel Mikhail. The photo ends at the lower wheat border with its corner crosses (a few px of that border may be missing); nothing below it is in the photo and nothing was added. Unlike Gabriel it shows no ornament panel, so it is either a shorter window or the lower part is outside the frame."
+  },
+  {
+   "path": "textures/icons/annunciation_panel.jpg",
+   "width": 764,
+   "height": 1536,
+   "source": "reference/icons/20070525_184521_003.jpg",
+   "quality": "good",
+   "note": "2007 close-up, straight-on; orange cast mapped to today's colour (profile from IMG_4802/4803/4805); arched top: the two upper corners show the wood arch moulding"
+  },
+  {
+   "path": "textures/icons/mikhail.jpg",
+   "width": 741,
+   "height": 1536,
+   "source": "reference/icons/20070525_184556_004.jpg",
+   "quality": "good",
+   "note": "2007 close-up, straight-on; orange cast mapped to today's colour (profile from IMG_4802/4803/4805); arched top: the two upper corners show the wood arch moulding"
+  },
+  {
+   "path": "textures/icons/mark.jpg",
+   "width": 723,
+   "height": 1536,
+   "source": "reference/icons/20070525_184748_005.jpg",
+   "quality": "good",
+   "note": "2007 close-up, straight-on; orange cast mapped to today's colour (profile from IMG_4802/4803/4805); arched top: the two upper corners show the wood arch moulding"
+  },
+  {
+   "path": "textures/icons/theotokos.jpg",
+   "width": 822,
+   "height": 1536,
+   "source": "reference/icons/20070525_185113_002.jpg",
+   "quality": "good",
+   "note": "2007 close-up, straight-on; orange cast mapped to today's colour (profile from IMG_4802/4803/4805); arched top: the two upper corners show the wood arch moulding"
+  },
+  {
+   "path": "textures/icons/christ.jpg",
+   "width": 849,
+   "height": 1536,
+   "source": "reference/icons/20070525_185301_001.jpg",
+   "quality": "good",
+   "note": "2007 close-up, straight-on; orange cast mapped to today's colour (profile from IMG_4802/4803/4805); arched top: the two upper corners show the wood arch moulding"
+  },
+  {
+   "path": "textures/icons/john_baptist.jpg",
+   "width": 771,
+   "height": 1536,
+   "source": "reference/icons/20070525_185423_006.jpg",
+   "quality": "good",
+   "note": "2007 close-up, straight-on; orange cast mapped to today's colour (profile from IMG_4802/4803/4805); arched top: the two upper corners show the wood arch moulding; title band at the bottom is cut off in the source photo"
+  },
+  {
+   "path": "textures/icons/george.jpg",
+   "width": 739,
+   "height": 1536,
+   "source": "reference/icons/20070525_185546_007.jpg",
+   "quality": "good",
+   "note": "2007 close-up, straight-on; orange cast mapped to today's colour (profile from IMG_4802/4803/4805); arched top: the two upper corners show the wood arch moulding"
+  },
+  {
+   "path": "textures/icons/mina_panel.jpg",
+   "width": 772,
+   "height": 1536,
+   "source": "reference/icons/20070525_185625_009.jpg",
+   "quality": "good",
+   "note": "2007 close-up, straight-on; orange cast mapped to today's colour (profile from IMG_4802/4803/4805); arched top: the two upper corners show the wood arch moulding"
+  },
+  {
+   "path": "textures/icons/annunciation.jpg",
+   "width": 1194,
+   "height": 1536,
+   "source": "reference/batch3/IMG_7965.jpg + reference/icons/20070525_190502_011.jpg",
+   "quality": "good",
+   "note": "today's photo rectified (today's colour); lighting evened with the registered 2007 photo (404 matches)"
+  },
+  {
+   "path": "textures/icons/nativity.jpg",
+   "width": 1228,
+   "height": 1474,
+   "source": "reference/batch3/IMG_7967.jpg + reference/icons/20070525_190630_013.jpg",
+   "quality": "good",
+   "note": "today's photo rectified (today's colour); lighting evened with the registered 2007 photo (140 matches)"
+  },
+  {
+   "path": "textures/icons/antony.jpg",
+   "width": 1140,
+   "height": 1502,
+   "source": "reference/batch3/IMG_7969.jpg + reference/icons/20070525_190617_012.jpg",
+   "quality": "good",
+   "note": "today's photo rectified (today's colour); lighting evened with the registered 2007 photo (121 matches)"
+  },
+  {
+   "path": "textures/icons/mina.jpg",
+   "width": 1216,
+   "height": 1536,
+   "source": "reference/batch3/IMG_7974.jpg + reference/icons/20070525_190804_014.jpg",
+   "quality": "good",
+   "note": "today's photo rectified (today's colour); lighting evened with the registered 2007 photo (578 matches)"
+  },
+  {
+   "path": "textures/icons/abraam.jpg",
+   "width": 1211,
+   "height": 1536,
+   "source": "reference/batch3/IMG_7979.jpg + reference/icons/20070525_191010_015.jpg",
+   "quality": "good",
+   "note": "today's photo rectified (today's colour); lighting evened with the registered 2007 photo (1005 matches)"
+  },
+  {
+   "path": "textures/icons/resurrection.jpg",
+   "width": 1226,
+   "height": 1514,
+   "source": "reference/batch3/IMG_7983.jpg + reference/icons/20070525_191737_020.jpg",
+   "quality": "good",
+   "note": "today's photo rectified (today's colour); lighting evened with the registered 2007 photo (693 matches)"
+  },
+  {
+   "path": "textures/icons/ascension.jpg",
+   "width": 1184,
+   "height": 1536,
+   "source": "reference/batch3/IMG_7985.jpg + reference/icons/20070525_191706_019.jpg",
+   "quality": "good",
+   "note": "today's photo rectified (today's colour); lighting evened with the registered 2007 photo (392 matches)"
+  },
+  {
+   "path": "textures/icons/pentecost.jpg",
+   "width": 1170,
+   "height": 1472,
+   "source": "reference/batch3/IMG_7989.jpg + reference/icons/20070525_192128_021.jpg",
+   "quality": "good",
+   "note": "today's photo rectified (today's colour); lighting evened with the registered 2007 photo (693 matches)"
+  },
+  {
+   "path": "textures/icons/throne_christ.jpg",
+   "width": 854,
+   "height": 1512,
+   "source": "reference/IMG_4808.jpg",
+   "quality": "good",
+   "note": "bishop's throne icon; arched top: upper corners show the carved arch"
+  },
+  {
+   "path": "textures/icons/curtain_mary.jpg",
+   "width": 838,
+   "height": 1536,
+   "source": "reference/IMG_4819.jpg",
+   "quality": "good",
+   "note": "left door curtain (St Mary); outside of the arch filled with velvet colour"
+  },
+  {
+   "path": "textures/icons/curtain_christ.jpg",
+   "width": 1087,
+   "height": 1536,
+   "source": "reference/IMG_7899.jpg",
+   "quality": "ok",
+   "note": "centre royal door curtain (Christ), from a straight-on overview; outside of the arch filled with velvet colour"
+  },
+  {
+   "path": "textures/icons/curtain_right.jpg",
+   "width": 377,
+   "height": 576,
+   "source": "reference/batch3/IMG_7956.jpg",
+   "quality": "low",
+   "note": "right door curtain (St Mark with lion), velvet only: small (curtain is ~340 px wide in the only view), cut off above the lion's feet where a bench rail covers it, right edge is where the curtain is drawn back; outside of the arch filled with velvet colour"
+  },
+  {
+   "path": "textures/icons/stmark_relief.jpg",
+   "width": 768,
+   "height": 1536,
+   "source": "reference/batch3/IMG_7990.jpg",
+   "quality": "good",
+   "note": "hammered-copper St Mark relief above the back doors, rectified from below, forced to 1:2; matching height map stmark_relief_height.jpg"
+  },
+  {
+   "path": "textures/icons/stmark_relief_height.jpg",
+   "width": 768,
+   "height": 1536,
+   "source": "reference/batch3/IMG_7990.jpg",
+   "quality": "good",
+   "note": "grayscale height estimate from the photo's light/dark relief (bright = raised)"
+  },
+  {
+   "path": "textures/icons/crucifix.jpg",
+   "width": 1223,
+   "height": 1536,
+   "source": "reference/batch3/IMG_7954.jpg",
+   "quality": "ok",
+   "note": "crucifix cut-out (cross panel without its post); shot from below, height stretched to the proportions seen in the straight-on IMG_7899; background black"
+  },
+  {
+   "path": "textures/icons/crucifix_mary.jpg",
+   "width": 635,
+   "height": 977,
+   "source": "reference/batch3/IMG_7954.jpg",
+   "quality": "ok",
+   "note": "St Mary panel left of the crucifix; shot from below, height stretched to the proportions seen in the straight-on IMG_7899; background black"
+  },
+  {
+   "path": "textures/icons/crucifix_john.jpg",
+   "width": 603,
+   "height": 928,
+   "source": "reference/batch3/IMG_7954.jpg",
+   "quality": "ok",
+   "note": "St John panel right of the crucifix; shot from below, height stretched to the proportions seen in the straight-on IMG_7899; background black"
+  },
+  {
+   "path": "textures/icons/last_supper.jpg",
+   "width": 1536,
+   "height": 506,
+   "source": "reference/batch3/IMG_7952.jpg + reference/icons/20070525_191502_018.jpg",
+   "quality": "good",
+   "note": "today's photo (from below) registered into the straight-on 2007 view; the hanging egg cord and 7% of the panel outside today's frame are filled from the 2007 photo, colour-matched locally"
+  },
+  {
+   "path": "textures/icons/apostle_01.jpg",
+   "width": 809,
+   "height": 1024,
+   "source": "reference/icons/20070525_191312_017.jpg",
+   "quality": "low",
+   "note": "name plate not legible (panel is hidden behind the bishop's throne canopy in today's photos); top row position 1 from the left; lamp left in; small 2007 lamp left in"
+  },
+  {
+   "path": "textures/icons/apostle_02.jpg",
+   "width": 809,
+   "height": 1024,
+   "source": "reference/IMG_4812.jpg",
+   "quality": "ok",
+   "note": "Philip; top row position 2 from the left; lamp removed: remaining area behind the lamp filled smoothly from the surrounding paint (blurred patch: hide it behind the 3D lamp); lamp chains left in (they cross the face; removing them smeared it)"
+  },
+  {
+   "path": "textures/icons/apostle_03.jpg",
+   "width": 809,
+   "height": 1024,
+   "source": "reference/IMG_4812.jpg",
+   "quality": "ok",
+   "note": "Simon; top row position 3 from the left; lamp removed: remaining area behind the lamp filled smoothly from the surrounding paint (blurred patch: hide it behind the 3D lamp); lamp chains left in (they cross the face; removing them smeared it)"
+  },
+  {
+   "path": "textures/icons/apostle_04.jpg",
+   "width": 809,
+   "height": 1024,
+   "source": "reference/IMG_4814.jpg",
+   "quality": "low",
+   "note": "Bartholomew; top row position 4 from the left; lamp removed: remaining area behind the lamp filled smoothly from the surrounding paint (blurred patch: hide it behind the 3D lamp); lamp chains left in (they cross the face; removing them smeared it)"
+  },
+  {
+   "path": "textures/icons/apostle_05.jpg",
+   "width": 809,
+   "height": 1024,
+   "source": "reference/IMG_4814.jpg",
+   "quality": "low",
+   "note": "James son of Alphaeus; top row position 5 from the left; lamp removed: remaining area behind the lamp filled smoothly from the surrounding paint (blurred patch: hide it behind the 3D lamp); lamp chains left in (they cross the face; removing them smeared it)"
+  },
+  {
+   "path": "textures/icons/apostle_06.jpg",
+   "width": 809,
+   "height": 1024,
+   "source": "reference/IMG_7899.jpg",
+   "quality": "ok",
+   "note": "John; top row position 6 from the left; lamp left in; lamp chains left in (they cross the face; removing them smeared it)"
+  },
+  {
+   "path": "textures/icons/apostle_07.jpg",
+   "width": 809,
+   "height": 1024,
+   "source": "reference/batch3/IMG_7963.jpg",
+   "quality": "ok",
+   "note": "Peter; top row position 7 from the left; lamp removed: remaining area behind the lamp filled smoothly from the surrounding paint (blurred patch: hide it behind the 3D lamp); lamp chains left in (they cross the face; removing them smeared it)"
+  },
+  {
+   "path": "textures/icons/apostle_08.jpg",
+   "width": 809,
+   "height": 1024,
+   "source": "reference/batch3/IMG_7958.jpg + reference/batch3/IMG_7962.jpg",
+   "quality": "ok",
+   "note": "Andrew; top row position 8 from the left; lamp removed: paint behind it taken from IMG_7962.jpg; remaining area behind the lamp filled smoothly from the surrounding paint (blurred patch: hide it behind the 3D lamp); lamp chains left in (they cross the face; removing them smeared it)"
+  },
+  {
+   "path": "textures/icons/apostle_09.jpg",
+   "width": 809,
+   "height": 1024,
+   "source": "reference/batch3/IMG_7962.jpg + reference/batch3/IMG_7959.jpg",
+   "quality": "ok",
+   "note": "Thomas; top row position 9 from the left; lamp removed: paint behind it taken from IMG_7959.jpg; remaining area behind the lamp filled smoothly from the surrounding paint (blurred patch: hide it behind the 3D lamp); lamp chains left in (they cross the face; removing them smeared it)"
+  },
+  {
+   "path": "textures/icons/apostle_10.jpg",
+   "width": 809,
+   "height": 1024,
+   "source": "reference/batch3/IMG_7959.jpg",
+   "quality": "ok",
+   "note": "Matthew; top row position 10 from the left; lamp removed: remaining area behind the lamp filled smoothly from the surrounding paint (blurred patch: hide it behind the 3D lamp); lamp chains left in (they cross the face; removing them smeared it)"
+  },
+  {
+   "path": "textures/icons/apostle_11.jpg",
+   "width": 809,
+   "height": 1024,
+   "source": "reference/batch3/IMG_7961.jpg + reference/batch3/IMG_7960.jpg",
+   "quality": "ok",
+   "note": "James son of Zebedee; top row position 11 from the left; lamp removed: paint behind it taken from IMG_7960.jpg; remaining area behind the lamp filled smoothly from the surrounding paint (blurred patch: hide it behind the 3D lamp); lamp chains left in (they cross the face; removing them smeared it)"
+  },
+  {
+   "path": "textures/icons/apostle_12.jpg",
+   "width": 809,
+   "height": 1024,
+   "source": "reference/batch3/IMG_7961.jpg",
+   "quality": "ok",
+   "note": "Matthias; top row position 12 from the left; lamp removed: remaining area behind the lamp filled smoothly from the surrounding paint (blurred patch: hide it behind the 3D lamp); lamp chains left in (they cross the face; removing them smeared it)"
+  },
+  {
+   "path": "textures/patterns/marquetry_cross.jpg",
+   "width": 1024,
+   "height": 1024,
+   "source": "reference/IMG_4812.jpg",
+   "quality": "good",
+   "note": "cross-and-star marquetry, exactly 2 x 2 lattice periods (one period = one cross spacing), tiles in both directions; rectified from a low viewpoint, lighting flattened, seam cross-faded with the true continuation of the pattern"
+  },
+  {
+   "path": "textures/patterns/marquetry_cross_height.jpg",
+   "width": 1024,
+   "height": 1024,
+   "source": "reference/IMG_4812.jpg",
+   "quality": "ok",
+   "note": "height estimate from luminance (light cross = high, dark grooves/mouldings = low), grain smoothed; same tiling as marquetry_cross.jpg; a guess, not measured relief"
+  },
+  {
+   "path": "textures/patterns/bead_lattice.jpg",
+   "width": 1024,
+   "height": 1024,
+   "source": "reference/batch3/IMG_7951.jpg",
+   "quality": "good",
+   "note": "turned-bead lattice, 8 x 8 cells = 4 x 4 lattice periods (one period = bead, block, bead offset by half a pitch on the next row), tiles in both directions; rectified from a close shot taken from below, so the beads show a little of their underside; colour moved part-way toward the straight-on view in IMG_7899"
+  },
+  {
+   "path": "textures/patterns/bead_lattice_height.jpg",
+   "width": 1024,
+   "height": 1024,
+   "source": "reference/batch3/IMG_7951.jpg",
+   "quality": "ok",
+   "note": "height estimate: backing board low, dark square blocks a flat mid plateau, beads and rods high (from brightness); same tiling as bead_lattice.jpg; a guess, not measured relief"
+  },
+  {
+   "path": "textures/patterns/runner.jpg",
+   "width": 768,
+   "height": 574,
+   "source": "reference/IMG_7885.jpg",
+   "quality": "ok",
+   "note": "aisle runner, full width (cream border to cream border plus ~3% dark red binding each side), tiles along its length (V) only; contains 3 repeats of the border motif (= 12 rows-pairs of the small field motif); real aspect of this tile width:length = 1:0.747, so one border repeat is about 0.249 x the runner width (~23 cm if the runner is ~0.9 m wide); rectified from a 0.5x overview with EXIF focal length, +-5% on the aspect; soft because the source is a dim wide-angle shot"
+  },
+  {
+   "path": "textures/patterns/carpet_red.jpg",
+   "width": 1024,
+   "height": 1024,
+   "source": "reference/IMG_7899.jpg",
+   "quality": "ok",
+   "note": "plain red carpet, about 1 m x 1 m, tiles in both directions; floor patch in front of the royal door rectified with the EXIF focal length, lint specks inpainted, vacuum marks and light falloff flattened; pile detail is fine-grained only"
+  },
+  {
+   "path": "textures/patterns/pew_inlay.jpg",
+   "width": 780,
+   "height": 780,
+   "source": "reference/IMG_7899.jpg",
+   "quality": "ok",
+   "note": "square inlaid panel (four diagonal inlaid bars and four lozenges with mother-of-pearl in a moulded star), rectified and cropped to the panel incl. its star points. Taken from the front of the right LECTERN, which carries the same inlay design as the pew ends: no photo shows a pew end close or straight enough (they are small, dark and oblique in every shot). Dark exposure lifted. A straight-on close-up of one pew end would replace this."
+  }
+ ]
+}

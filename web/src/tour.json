@@ -1,0 +1,408 @@
+{
+  "church": {
+    "name": "St. Mark's Coptic Orthodox Church",
+    "city": "Jersey City",
+    "tagline": "Jersey City · A guided tour of the church",
+    "intro": "Walk through the church one stop at a time. At each stop you can look around, and choose an icon or a window to learn what it shows and why it is there."
+  },
+  "stops": [
+    {
+      "id": "entrance",
+      "title": "The entrance",
+      "camera": {
+        "pos": [0, 7.2, 1.6],
+        "look": [0, 0, 2.1],
+        "yaw": 70
+      },
+      "items": ["Icon_stmark_relief", "Icon_stand_theotokos", "Icon_stand_christ"],
+      "text": "You come in through the doors at the back of the church and face forward, toward the altar. Above the doors is a copper relief of St. Mark, the saint this church is named for. On either side of the doors stand an icon of the Virgin Mary and an icon of Christ. People often pause at icons like these to pray quietly before they take a seat."
+    },
+    {
+      "id": "nave",
+      "title": "The nave",
+      "camera": {
+        "pos": [0, 1.6, 1.7],
+        "look": [0, 17.5, 2.73],
+        "yaw": 80
+      },
+      "items": [],
+      "text": "The main body of the church, where the congregation gathers, is called the nave. Everything in it leads the eye forward: the aisle, the pews and the lights all point to the carved icon screen at the front and the altar behind it. Church tradition compares the building to a ship, like Noah's ark, that carries its people safely."
+    },
+    {
+      "id": "glass-old-testament",
+      "title": "Stained glass: the Old Testament side",
+      "camera": {
+        "pos": [0.3, 8.7, 1.6],
+        "look": [-5.5, 8.7, 2.8],
+        "yaw": 75
+      },
+      "items": ["Win_abraham", "Win_david", "Win_three_youths", "Win_moses", "Win_daniel"],
+      "text": "The windows on the left wall show people and events from the Old Testament, the part of the Bible written before the coming of Christ. The Church reads these stories as a preparation for him, and sees in several of them an early picture of what he would do. Choose a window to read its story."
+    },
+    {
+      "id": "glass-new-testament",
+      "title": "Stained glass: the New Testament side",
+      "camera": {
+        "pos": [-0.3, 8.7, 1.6],
+        "look": [5.5, 8.7, 2.8],
+        "yaw": 75
+      },
+      "items": ["Win_storm", "Win_samaritan", "Win_egypt", "Win_lazarus", "Win_healing"],
+      "text": "The windows on the right wall show events from the life of Christ as the Gospels tell them. Together they show who Christians believe he is: the one who has power over nature, sickness and death, and who comes looking for every person. Choose a window to read its story."
+    },
+    {
+      "id": "feast-icons",
+      "title": "Feast icons on the walls",
+      "camera": {
+        "pos": [0, 8.25, 1.6],
+        "look": [-5.5, 11.45, 2.68],
+        "yaw": 180
+      },
+      "items": ["Icon_annunciation", "Icon_nativity", "Icon_resurrection", "Icon_ascension", "Icon_pentecost", "Icon_antony", "Icon_mina", "Icon_abraam"],
+      "text": "Carved wooden shrines on the walls hold icons. Those between the windows show great feasts of the church year, each one an event in the story of salvation: the Annunciation, the Nativity, the Resurrection, the Ascension and Pentecost. With them, and near the back of the church, are saints who are especially loved in the Coptic Church. An icon is honoured, never worshipped; it is there to turn the mind toward the person or event it shows."
+    },
+    {
+      "id": "chorus",
+      "title": "The chorus",
+      "camera": {
+        "pos": [0, 9.4, 1.8],
+        "look": [0, 15, 1.2],
+        "yaw": 60
+      },
+      "items": [],
+      "text": "The raised area at the front is the chorus, where the deacons stand. Deacons serve with the priest and lead the hymns and responses, most of which are sung. They stand in two groups that face each other and often sing in turn, one side answering the other. The readings from the Bible in each service are read from the lecterns.",
+      "review": true,
+      "reviewNote": "Confirm how the lecterns are used in this parish (which readings, which languages).",
+      "todo": "Does this parish seat men and women on separate sides? If it does, which side is which, and should the tour mention it and explain why? Nothing is said about it for now."
+    },
+    {
+      "id": "iconostasis",
+      "title": "The iconostasis",
+      "camera": {
+        "pos": [0, 10.5, 1.8],
+        "look": [0, 17.5, 2.34],
+        "yaw": 50
+      },
+      "items": ["Icon_theotokos", "Icon_christ", "Icon_last_supper", "Icon_crucifix"],
+      "text": "The carved wooden screen across the front is the iconostasis, a word that means icon stand. It stands between the nave and the sanctuary, where the altar is, and marks the sanctuary as the holiest part of the church. Its icons are arranged in an order that is much the same in every Coptic church, so the next few stops go through them one group at a time. The sanctuary itself is not part of this tour."
+    },
+    {
+      "id": "royal-door",
+      "title": "The royal door and curtains",
+      "camera": {
+        "pos": [0, 15.2, 1.9],
+        "look": [0, 17.5, 1.45],
+        "yaw": 60
+      },
+      "items": ["Icon_curtain_christ", "Icon_curtain_mary", "Icon_curtain_right"],
+      "text": "The opening in the centre of the screen is called the royal door, because it leads to the altar of Christ the King. Through it the priest brings Holy Communion out to the people. A curtain covers the door when no service is being prayed, and it is drawn open when the prayers begin. The smaller doors on either side have curtains of their own.",
+      "review": true,
+      "reviewNote": "Confirm what the two side doors lead to in this church (side altars or other rooms) so a sentence can be added."
+    },
+    {
+      "id": "theotokos-and-christ",
+      "title": "The Theotokos and Christ icons",
+      "camera": {
+        "pos": [0, 14.3, 1.9],
+        "look": [0, 17.5, 1.7],
+        "yaw": 45
+      },
+      "items": ["Icon_theotokos", "Icon_christ"],
+      "text": "Two icons always stand beside the royal door. On the right, as you face it, is the Lord Jesus Christ. On the left is his mother, the Virgin Mary, holding him as a child. Her place is at his right hand, following the words of the psalm: \"At your right hand stands the queen.\""
+    },
+    {
+      "id": "apostles-last-supper",
+      "title": "The apostles and the Last Supper",
+      "camera": {
+        "pos": [0, 10.35, 1.8],
+        "look": [0, 17.5, 3.35],
+        "yaw": 55
+      },
+      "items": ["Icon_last_supper", "Icon_apostle_01", "Icon_apostle_02", "Icon_apostle_03", "Icon_apostle_04", "Icon_apostle_05", "Icon_apostle_06", "Icon_apostle_07", "Icon_apostle_08", "Icon_apostle_09", "Icon_apostle_10", "Icon_apostle_11", "Icon_apostle_12"],
+      "text": "Along the top of the screen stand the twelve apostles, six on each side. They are the disciples Christ chose and sent out to preach to the world. Between them, above the royal door, is the Last Supper, the meal at which he gave his disciples bread and wine as his Body and Blood. It hangs over the door to the altar because that same mystery, the Eucharist, is celebrated there. A lamp hangs in front of each icon as a sign of honour.",
+      "review": true,
+      "reviewNote": "Apostle names are taken from the name plates, left to right: (unread), Philip, Simon, Bartholomew, James son of Alphaeus, John, Peter, Andrew, Thomas, Matthew, James son of Zebedee, Matthias. Confirm the order, and that Simon is Simon the Zealot."
+    },
+    {
+      "id": "crucifix",
+      "title": "The crucifix above",
+      "camera": {
+        "pos": [0, 15.4, 3.5],
+        "look": [0, 17.5, 4.4],
+        "yaw": 40
+      },
+      "items": ["Icon_crucifix", "Icon_crucifix_mary", "Icon_crucifix_john"],
+      "text": "At the top of the iconostasis is the cross with Christ crucified. His mother, the Virgin Mary, and his disciple St. John stand on either side, as the Gospel of John describes them standing by the cross. It is set at the highest point so that it can be seen from everywhere in the church. For Christians the cross is the sign of Christ's love and of his victory over death."
+    },
+    {
+      "id": "patron-icons-left",
+      "title": "The patron icons: beside the Virgin Mary",
+      "camera": {
+        "pos": [-1.95, 14.9, 1.9],
+        "look": [-4.32, 17.5, 1.55],
+        "yaw": 60
+      },
+      "items": ["Icon_mark", "Icon_mikhail", "Icon_annunciation_panel"],
+      "text": "At the left end of the screen hang three smaller icons. From left to right they show St. Mark, the patron of this church, the Archangel Michael, and the Annunciation. Coptic custom gives the Annunciation and the Archangel their place on the same side as the icon of the Virgin Mary."
+    },
+    {
+      "id": "patron-icons-right",
+      "title": "The patron icons: beside Christ",
+      "camera": {
+        "pos": [1.95, 14.9, 1.9],
+        "look": [4.33, 17.5, 1.55],
+        "yaw": 60
+      },
+      "items": ["Icon_john_baptist", "Icon_george", "Icon_mina_panel"],
+      "text": "At the right end of the screen hang three more. St. John the Baptist comes first, on the same side as the icon of Christ, as Coptic custom has it. After him come saints the parish holds dear, here St. George and St. Mina."
+    },
+    {
+      "id": "bishops-throne",
+      "title": "The bishop's throne",
+      "camera": {
+        "pos": [-2.1, 14.85, 1.9],
+        "look": [-4.95, 16.35, 1.9],
+        "yaw": 50
+      },
+      "items": ["Icon_throne_christ"],
+      "text": "This carved wooden seat is kept for the bishop. Every Coptic parish belongs to a diocese led by a bishop, and when he visits he sits here. The rest of the time the seat stays empty, a reminder that the parish is part of the wider Church. The icon on it shows Christ seated on a throne.",
+      "review": true,
+      "reviewNote": "Confirm who uses the throne here (the diocesan bishop, the Pope on a visit, any visiting bishop) and adjust."
+    },
+    {
+      "id": "chandeliers",
+      "title": "The chandeliers and the light",
+      "camera": {
+        "pos": [0, 4.13, 1.6],
+        "look": [0, 13.9, 5],
+        "yaw": 70
+      },
+      "items": [],
+      "text": "Light has a meaning in the church. Christ said, \"I am the light of the world,\" and lamps and candles are lit before icons and at the altar as a sign of his presence. The chandeliers fill the nave with light during the services. A lit church is often described as a picture of heaven, with its lights compared to the stars.",
+      "review": true,
+      "reviewNote": "The comparison of the lights to stars and of the church to heaven is common teaching, but please confirm the wording."
+    }
+  ],
+  "items": {
+    "Icon_stmark_relief": {
+      "title": "St. Mark the Evangelist",
+      "text": "St. Mark wrote the second Gospel. According to Coptic tradition he preached in Alexandria in the first century and was martyred there, and the Coptic Church honours him as its founder and first patriarch.",
+      "review": true,
+      "reviewNote": "Add a sentence on what the relief itself shows once it can be seen up close (for example the lion, his symbol)."
+    },
+    "Icon_stand_theotokos": {
+      "title": "The Virgin Mary",
+      "text": "An icon of the Virgin Mary. The Church calls her Theotokos, a Greek word that means Mother of God, because the child she bore is God the Son.",
+      "review": true,
+      "reviewNote": "Written without seeing this icon. Confirm what it shows."
+    },
+    "Icon_stand_christ": {
+      "title": "The Lord Jesus Christ",
+      "text": "An icon of the Lord Jesus Christ. People who come in often stand before it for a moment of prayer.",
+      "review": true,
+      "reviewNote": "Written without seeing this icon. Confirm what it shows."
+    },
+    "Win_abraham": {
+      "title": "Abraham and Isaac",
+      "text": "God tested Abraham by asking him to offer his son Isaac, and at the last moment an angel stopped him and a ram was offered in the boy's place (Genesis 22). The Church sees in this a picture of God the Father giving his own Son.",
+      "review": true,
+      "reviewNote": "The window appears to show the sacrifice of Isaac. Confirm."
+    },
+    "Win_david": {
+      "title": "David",
+      "text": "David was a shepherd boy who became king of Israel. He wrote many of the Psalms, the prayers the Church still sings every day, and Christ was born from his family line.",
+      "review": true,
+      "reviewNote": "Add what this window shows of David (the shepherd, the harp, Goliath) once it is confirmed."
+    },
+    "Win_three_youths": {
+      "title": "The three youths in the furnace",
+      "text": "Three young men refused to bow to the golden statue of the king of Babylon and were thrown into a furnace. The fire did not harm them, and a fourth figure was seen walking with them in the flames (Daniel 3). Their song of praise is sung in the Coptic midnight prayers."
+    },
+    "Win_moses": {
+      "title": "Moses",
+      "text": "Moses led the people of Israel out of slavery in Egypt and received the Ten Commandments from God on Mount Sinai. He is honoured as the great prophet and lawgiver of the Old Testament.",
+      "review": true,
+      "reviewNote": "The owner confirmed this window is Moses. Add which moment of his life it shows (for example the burning bush)."
+    },
+    "Win_daniel": {
+      "title": "Daniel in the lions' den",
+      "text": "The prophet Daniel kept praying to God when the law of the king forbade it, and he was thrown into a den of lions. God shut the lions' mouths and he came out unharmed (Daniel 6).",
+      "review": true,
+      "reviewNote": "Confirm that the window shows the lions' den."
+    },
+    "Win_storm": {
+      "title": "Christ calms the storm",
+      "text": "A storm rose while Christ and his disciples were crossing the lake, and the disciples feared they would drown. He spoke to the wind and the waves and they became still (Mark 4). The disciples asked one another, \"Who is this, that even the wind and the sea obey him?\""
+    },
+    "Win_samaritan": {
+      "title": "The Samaritan woman at the well",
+      "text": "Christ asked a Samaritan woman for a drink at a well and then offered her living water, the life that comes from God (John 4). She went and told her whole town about him."
+    },
+    "Win_egypt": {
+      "title": "The flight into Egypt",
+      "text": "When King Herod sought to kill the child Jesus, Joseph took him and his mother Mary to Egypt, where they stayed until Herod died (Matthew 2). Copts treasure this journey, because their country sheltered the Holy Family. The Coptic Church keeps a feast for it on the first of June."
+    },
+    "Win_lazarus": {
+      "title": "The raising of Lazarus",
+      "text": "Lazarus, a friend of Christ, had been dead for four days when Christ called him out of the tomb alive (John 11). The Church remembers it on Lazarus Saturday, the day before Palm Sunday, as a sign of the resurrection to come."
+    },
+    "Win_healing": {
+      "title": "Christ heals",
+      "text": "The Gospels tell of Christ healing the blind, the sick and the paralysed with a touch or a word. Each healing shows his mercy and his power to make a person whole.",
+      "review": true,
+      "reviewNote": "The window appears to show Christ touching a man's eyes. Confirm which healing it is (possibly the man born blind, John 9) so the text can name it."
+    },
+    "Icon_annunciation": {
+      "title": "The Annunciation",
+      "text": "The Archangel Gabriel tells the Virgin Mary that she will bear the Son of God, and she accepts (Luke 1). The feast celebrates the moment God became man."
+    },
+    "Icon_nativity": {
+      "title": "The Nativity",
+      "text": "The birth of Christ in Bethlehem (Luke 2). The Coptic Church celebrates Christmas on the 29th of the Coptic month of Kiahk, which falls on the 7th of January."
+    },
+    "Icon_resurrection": {
+      "title": "The Resurrection",
+      "text": "Christ rises from the dead on the third day after his crucifixion. Easter, the feast of the Resurrection, is the greatest feast of the Church, and every Sunday is kept in its memory."
+    },
+    "Icon_ascension": {
+      "title": "The Ascension",
+      "text": "Forty days after his Resurrection, Christ was taken up into heaven while his disciples watched (Acts 1)."
+    },
+    "Icon_pentecost": {
+      "title": "Pentecost",
+      "text": "Fifty days after the Resurrection, the Holy Spirit came down on the disciples in the form of tongues of fire, and they began to preach to every nation (Acts 2). It is kept as the birthday of the Church."
+    },
+    "Icon_antony": {
+      "title": "St. Antony the Great",
+      "text": "St. Antony was an Egyptian who gave away what he owned and went to live a life of prayer in the desert in the third and fourth centuries. Others followed him, and he is known as the father of monks."
+    },
+    "Icon_mina": {
+      "title": "St. Mina",
+      "text": "St. Mina was an Egyptian soldier who was martyred for his faith in the early fourth century. He is called the Wonderworker and is one of the best loved saints of Egypt. His monastery stands at Mariout, near Alexandria."
+    },
+    "Icon_abraam": {
+      "title": "Abba Abraam",
+      "text": "Abba Abraam was Bishop of Fayoum in Egypt and died in 1914. He is remembered as the friend of the poor, because he gave away whatever he was given."
+    },
+    "Icon_curtain_christ": {
+      "title": "The curtain of the royal door",
+      "text": "The curtain of the royal door is embroidered with the figure of Christ. It is drawn open at the beginning of the prayers and closed again when they end."
+    },
+    "Icon_curtain_mary": {
+      "title": "The curtain of the left door",
+      "text": "This curtain covers the door on the left of the screen and is embroidered with the Virgin Mary."
+    },
+    "Icon_theotokos": {
+      "title": "The Theotokos",
+      "text": "The Virgin Mary holds the child Christ. Theotokos is a Greek word that means Mother of God, a title the Church gives her because the child she bore is God the Son."
+    },
+    "Icon_christ": {
+      "title": "The Lord Jesus Christ",
+      "text": "Christ is on the right of the royal door, as in every Coptic church. An icon like this usually shows him holding the Gospel and raising his hand in blessing.",
+      "review": true,
+      "reviewNote": "Confirm against the icon itself (what he holds, the gesture)."
+    },
+    "Icon_last_supper": {
+      "title": "The Last Supper",
+      "text": "On the night before his crucifixion Christ ate with his twelve disciples, gave them bread and wine as his Body and Blood, and told them to do this in remembrance of him. Every liturgy celebrates the same mystery."
+    },
+    "Icon_crucifix": {
+      "title": "The crucifix",
+      "text": "Christ on the cross, with his mother the Virgin Mary and St. John the beloved disciple beside him (John 19). Christians believe that by his death on the cross he saved the world."
+    },
+    "Icon_mark": {
+      "title": "St. Mark the Evangelist",
+      "text": "St. Mark is the patron of this church. He wrote the second Gospel and brought the Christian faith to Egypt, and the Coptic Pope is counted as his successor."
+    },
+    "Icon_mikhail": {
+      "title": "The Archangel Michael",
+      "text": "Michael is the chief of the angels, who defends the people of God. The Coptic Church remembers him on the twelfth day of every Coptic month."
+    },
+    "Icon_annunciation_panel": {
+      "title": "The Annunciation",
+      "text": "The Archangel Gabriel brings the Virgin Mary the news that she will bear the Son of God (Luke 1). This icon traditionally has its place on the iconostasis near the icon of the Virgin."
+    },
+    "Icon_john_baptist": {
+      "title": "St. John the Baptist",
+      "text": "St. John prepared the way for Christ and baptised him in the river Jordan. His icon traditionally stands next to the icon of Christ."
+    },
+    "Icon_george": {
+      "title": "St. George",
+      "text": "St. George was a Roman soldier who was martyred for his faith at the beginning of the fourth century. Copts call him the Prince of Martyrs, and he is usually shown on a white horse."
+    },
+    "Icon_mina_panel": {
+      "title": "St. Mina",
+      "text": "St. Mina the Wonderworker was an Egyptian soldier and martyr of the early fourth century. He is often shown with two camels at his feet, from the story of how his body was carried to its resting place.",
+      "review": true,
+      "reviewNote": "Confirm the camels detail against this icon."
+    },
+    "Icon_throne_christ": {
+      "title": "Christ enthroned",
+      "text": "Christ is seated on a throne and holds the book of the Gospel. The icon is a reminder that he is the true head of the Church, and that a bishop serves in his name."
+    },
+    "Icon_curtain_right": {
+      "title": "The curtain of the right door",
+      "text": "This curtain covers the door on the right of the screen. Like the others it stays closed when no service is being prayed.",
+      "review": true,
+      "reviewNote": "Add what is embroidered on this curtain."
+    },
+    "Icon_crucifix_mary": {
+      "title": "The Virgin Mary at the cross",
+      "text": "The Virgin Mary stood by the cross of her son. From the cross he entrusted her to the care of his disciple John (John 19)."
+    },
+    "Icon_crucifix_john": {
+      "title": "St. John at the cross",
+      "text": "St. John, called the beloved disciple, stood by the cross with the Virgin Mary. Christ asked him to care for her as his own mother (John 19)."
+    },
+    "Icon_apostle_01": {
+      "title": "An apostle",
+      "text": "One of the twelve apostles, the disciples Christ chose and sent out to preach the Gospel to the world.",
+      "review": true,
+      "reviewNote": "The name plate of the first apostle on the left could not be read. Give his name."
+    },
+    "Icon_apostle_02": {
+      "title": "St. Philip",
+      "text": "Philip was among the first disciples Christ called. He brought Nathanael to meet him with the words \"Come and see\" (John 1)."
+    },
+    "Icon_apostle_03": {
+      "title": "St. Simon",
+      "text": "Simon is called the Zealot in the Gospels, which tells him apart from Simon Peter."
+    },
+    "Icon_apostle_04": {
+      "title": "St. Bartholomew",
+      "text": "Bartholomew is named in every list of the twelve apostles. Church tradition often identifies him with Nathanael, whom Philip brought to Christ."
+    },
+    "Icon_apostle_05": {
+      "title": "St. James, son of Alphaeus",
+      "text": "This James is called the son of Alphaeus to tell him apart from James the son of Zebedee, who was also one of the twelve."
+    },
+    "Icon_apostle_06": {
+      "title": "St. John",
+      "text": "John, the brother of James, is called the beloved disciple. He stood by the cross and wrote the fourth Gospel."
+    },
+    "Icon_apostle_07": {
+      "title": "St. Peter",
+      "text": "Peter was a fisherman named Simon. Christ gave him the name Peter, which means rock, and he is named first in every list of the apostles."
+    },
+    "Icon_apostle_08": {
+      "title": "St. Andrew",
+      "text": "Andrew was a fisherman and the brother of Peter. He was one of the first to follow Christ, and he brought his brother to him (John 1)."
+    },
+    "Icon_apostle_09": {
+      "title": "St. Thomas",
+      "text": "Thomas would not believe that Christ had risen until he saw him. When he did, he said, \"My Lord and my God\" (John 20)."
+    },
+    "Icon_apostle_10": {
+      "title": "St. Matthew",
+      "text": "Matthew was a tax collector when Christ called him to follow. The first Gospel bears his name."
+    },
+    "Icon_apostle_11": {
+      "title": "St. James, son of Zebedee",
+      "text": "James was a fisherman and the brother of John. He was the first of the twelve to die for his faith (Acts 12)."
+    },
+    "Icon_apostle_12": {
+      "title": "St. Matthias",
+      "text": "Matthias was chosen by the apostles to take the place of Judas among the twelve (Acts 1)."
+    }
+  }
+}

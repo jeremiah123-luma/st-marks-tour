@@ -1,0 +1,42 @@
+[
+ {
+  "path": "textures/windows/altar_christ.jpg",
+  "width": 966,
+  "height": 1869,
+  "source": "reference/windows/IMG_2128.jpg",
+  "quality": "good",
+  "note": "glass only, black outside the arch; width:height = 1:1.93. Christ enthroned, centre window of the sanctuary wall. In IMG_2128 the three windows sit on one wall: this tall one in the centre, a small arched window each side, set low (their sills level with this window's sill, their tops at about 37% of its height); centre-to-centre spacing about 1.2x this window's width, each small one about 0.37x its height. Shot from below: height may be slightly compressed."
+ },
+ {
+  "path": "textures/windows/altar_small_left.jpg",
+  "width": 426,
+  "height": 684,
+  "source": "reference/windows/IMG_2128.jpg",
+  "quality": "low",
+  "note": "glass only, black outside the arch; width:height = 1:1.61. small window left of Christ (angel and lion = two of the four living creatures). Separate pane in its own deep niche; seen obliquely, the right wheat border is hidden by the niche wall, so the crop is not the full width."
+ },
+ {
+  "path": "textures/windows/altar_small_right.jpg",
+  "width": 333,
+  "height": 638,
+  "source": "reference/windows/IMG_2128.jpg",
+  "quality": "low",
+  "note": "glass only, black outside the arch; width:height = 1:1.92. small window right of Christ (eagle and ox). Separate pane in its own deep niche; seen obliquely, the left wheat border and part of the glass are hidden by the niche wall, so the crop is not the full width."
+ },
+ {
+  "path": "textures/windows/altar_gabriel.jpg",
+  "width": 455,
+  "height": 2048,
+  "source": "reference/windows/IMG_2748.jpg",
+  "quality": "good",
+  "note": "glass only, black outside the arch; width:height = 1:4.50. Archangel Gabriel, full window with two mullion bars and the ornament panel. Photo shows only this window and its plaster reveal; its place relative to the other sanctuary windows is not visible."
+ },
+ {
+  "path": "textures/windows/altar_mikhail.jpg",
+  "width": 908,
+  "height": 2048,
+  "source": "reference/windows/IMG_2752.jpg",
+  "quality": "ok",
+  "note": "glass only, black outside the arch; width:height = 1:2.26. Archangel Mikhail. The photo ends at the lower wheat border with its corner crosses (a few px of that border may be missing); nothing below it is in the photo and nothing was added. Unlike Gabriel it shows no ornament panel, so it is either a shorter window or the lower part is outside the frame."
+ }
+]

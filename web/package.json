@@ -1,0 +1,25 @@
+{
+  "name": "church-tour",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync-assets.mjs",
+    "dev": "npm run sync && vite",
+    "build": "npm run sync && vite build && node scripts/budget.mjs",
+    "preview": "node scripts/serve.mjs",
+    "text": "node scripts/text.mjs",
+    "cameras": "node scripts/cameras.mjs",
+    "verify": "node scripts/verify.mjs"
+  },
+  "dependencies": {
+    "@react-three/fiber": "9.8.1",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "three": "0.186.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "6.1.1",
+    "vite": "8.3.4"
+  }
+}

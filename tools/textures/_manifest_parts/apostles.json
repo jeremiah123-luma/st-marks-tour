@@ -1,0 +1,98 @@
+[
+ {
+  "path": "textures/icons/apostle_01.jpg",
+  "width": 809,
+  "height": 1024,
+  "source": "reference/icons/20070525_191312_017.jpg",
+  "quality": "low",
+  "note": "name plate not legible (panel is hidden behind the bishop's throne canopy in today's photos); top row position 1 from the left; lamp left in; small 2007 lamp left in"
+ },
+ {
+  "path": "textures/icons/apostle_02.jpg",
+  "width": 809,
+  "height": 1024,
+  "source": "reference/IMG_4812.jpg",
+  "quality": "ok",
+  "note": "Philip; top row position 2 from the left; lamp removed: remaining area behind the lamp filled smoothly from the surrounding paint (blurred patch: hide it behind the 3D lamp); lamp chains left in (they cross the face; removing them smeared it)"
+ },
+ {
+  "path": "textures/icons/apostle_03.jpg",
+  "width": 809,
+  "height": 1024,
+  "source": "reference/IMG_4812.jpg",
+  "quality": "ok",
+  "note": "Simon; top row position 3 from the left; lamp removed: remaining area behind the lamp filled smoothly from the surrounding paint (blurred patch: hide it behind the 3D lamp); lamp chains left in (they cross the face; removing them smeared it)"
+ },
+ {
+  "path": "textures/icons/apostle_04.jpg",
+  "width": 809,
+  "height": 1024,
+  "source": "reference/IMG_4814.jpg",
+  "quality": "low",
+  "note": "Bartholomew; top row position 4 from the left; lamp removed: remaining area behind the lamp filled smoothly from the surrounding paint (blurred patch: hide it behind the 3D lamp); lamp chains left in (they cross the face; removing them smeared it)"
+ },
+ {
+  "path": "textures/icons/apostle_05.jpg",
+  "width": 809,
+  "height": 1024,
+  "source": "reference/IMG_4814.jpg",
+  "quality": "low",
+  "note": "James son of Alphaeus; top row position 5 from the left; lamp removed: remaining area behind the lamp filled smoothly from the surrounding paint (blurred patch: hide it behind the 3D lamp); lamp chains left in (they cross the face; removing them smeared it)"
+ },
+ {
+  "path": "textures/icons/apostle_06.jpg",
+  "width": 809,
+  "height": 1024,
+  "source": "reference/IMG_7899.jpg",
+  "quality": "ok",
+  "note": "John; top row position 6 from the left; lamp left in; lamp chains left in (they cross the face; removing them smeared it)"
+ },
+ {
+  "path": "textures/icons/apostle_07.jpg",
+  "width": 809,
+  "height": 1024,
+  "source": "reference/batch3/IMG_7963.jpg",
+  "quality": "ok",
+  "note": "Peter; top row position 7 from the left; lamp removed: remaining area behind the lamp filled smoothly from the surrounding paint (blurred patch: hide it behind the 3D lamp); lamp chains left in (they cross the face; removing them smeared it)"
+ },
+ {
+  "path": "textures/icons/apostle_08.jpg",
+  "width": 809,
+  "height": 1024,
+  "source": "reference/batch3/IMG_7958.jpg + reference/batch3/IMG_7962.jpg",
+  "quality": "ok",
+  "note": "Andrew; top row position 8 from the left; lamp removed: paint behind it taken from IMG_7962.jpg; remaining area behind the lamp filled smoothly from the surrounding paint (blurred patch: hide it behind the 3D lamp); lamp chains left in (they cross the face; removing them smeared it)"
+ },
+ {
+  "path": "textures/icons/apostle_09.jpg",
+  "width": 809,
+  "height": 1024,
+  "source": "reference/batch3/IMG_7962.jpg + reference/batch3/IMG_7959.jpg",
+  "quality": "ok",
+  "note": "Thomas; top row position 9 from the left; lamp removed: paint behind it taken from IMG_7959.jpg; remaining area behind the lamp filled smoothly from the surrounding paint (blurred patch: hide it behind the 3D lamp); lamp chains left in (they cross the face; removing them smeared it)"
+ },
+ {
+  "path": "textures/icons/apostle_10.jpg",
+  "width": 809,
+  "height": 1024,
+  "source": "reference/batch3/IMG_7959.jpg",
+  "quality": "ok",
+  "note": "Matthew; top row position 10 from the left; lamp removed: remaining area behind the lamp filled smoothly from the surrounding paint (blurred patch: hide it behind the 3D lamp); lamp chains left in (they cross the face; removing them smeared it)"
+ },
+ {
+  "path": "textures/icons/apostle_11.jpg",
+  "width": 809,
+  "height": 1024,
+  "source": "reference/batch3/IMG_7961.jpg + reference/batch3/IMG_7960.jpg",
+  "quality": "ok",
+  "note": "James son of Zebedee; top row position 11 from the left; lamp removed: paint behind it taken from IMG_7960.jpg; remaining area behind the lamp filled smoothly from the surrounding paint (blurred patch: hide it behind the 3D lamp); lamp chains left in (they cross the face; removing them smeared it)"
+ },
+ {
+  "path": "textures/icons/apostle_12.jpg",
+  "width": 809,
+  "height": 1024,
+  "source": "reference/batch3/IMG_7961.jpg",
+  "quality": "ok",
+  "note": "Matthias; top row position 12 from the left; lamp removed: remaining area behind the lamp filled smoothly from the surrounding paint (blurred patch: hide it behind the 3D lamp); lamp chains left in (they cross the face; removing them smeared it)"
+ }
+]

@@ -1,0 +1,210 @@
+[
+ {
+  "path": "textures/icons/annunciation_panel.jpg",
+  "width": 764,
+  "height": 1536,
+  "source": "reference/icons/20070525_184521_003.jpg",
+  "quality": "good",
+  "note": "2007 close-up, straight-on; orange cast mapped to today's colour (profile from IMG_4802/4803/4805); arched top: the two upper corners show the wood arch moulding"
+ },
+ {
+  "path": "textures/icons/mikhail.jpg",
+  "width": 741,
+  "height": 1536,
+  "source": "reference/icons/20070525_184556_004.jpg",
+  "quality": "good",
+  "note": "2007 close-up, straight-on; orange cast mapped to today's colour (profile from IMG_4802/4803/4805); arched top: the two upper corners show the wood arch moulding"
+ },
+ {
+  "path": "textures/icons/mark.jpg",
+  "width": 723,
+  "height": 1536,
+  "source": "reference/icons/20070525_184748_005.jpg",
+  "quality": "good",
+  "note": "2007 close-up, straight-on; orange cast mapped to today's colour (profile from IMG_4802/4803/4805); arched top: the two upper corners show the wood arch moulding"
+ },
+ {
+  "path": "textures/icons/theotokos.jpg",
+  "width": 822,
+  "height": 1536,
+  "source": "reference/icons/20070525_185113_002.jpg",
+  "quality": "good",
+  "note": "2007 close-up, straight-on; orange cast mapped to today's colour (profile from IMG_4802/4803/4805); arched top: the two upper corners show the wood arch moulding"
+ },
+ {
+  "path": "textures/icons/christ.jpg",
+  "width": 849,
+  "height": 1536,
+  "source": "reference/icons/20070525_185301_001.jpg",
+  "quality": "good",
+  "note": "2007 close-up, straight-on; orange cast mapped to today's colour (profile from IMG_4802/4803/4805); arched top: the two upper corners show the wood arch moulding"
+ },
+ {
+  "path": "textures/icons/john_baptist.jpg",
+  "width": 771,
+  "height": 1536,
+  "source": "reference/icons/20070525_185423_006.jpg",
+  "quality": "good",
+  "note": "2007 close-up, straight-on; orange cast mapped to today's colour (profile from IMG_4802/4803/4805); arched top: the two upper corners show the wood arch moulding; title band at the bottom is cut off in the source photo"
+ },
+ {
+  "path": "textures/icons/george.jpg",
+  "width": 739,
+  "height": 1536,
+  "source": "reference/icons/20070525_185546_007.jpg",
+  "quality": "good",
+  "note": "2007 close-up, straight-on; orange cast mapped to today's colour (profile from IMG_4802/4803/4805); arched top: the two upper corners show the wood arch moulding"
+ },
+ {
+  "path": "textures/icons/mina_panel.jpg",
+  "width": 772,
+  "height": 1536,
+  "source": "reference/icons/20070525_185625_009.jpg",
+  "quality": "good",
+  "note": "2007 close-up, straight-on; orange cast mapped to today's colour (profile from IMG_4802/4803/4805); arched top: the two upper corners show the wood arch moulding"
+ },
+ {
+  "path": "textures/icons/annunciation.jpg",
+  "width": 1194,
+  "height": 1536,
+  "source": "reference/batch3/IMG_7965.jpg + reference/icons/20070525_190502_011.jpg",
+  "quality": "good",
+  "note": "today's photo rectified (today's colour); lighting evened with the registered 2007 photo (404 matches)"
+ },
+ {
+  "path": "textures/icons/nativity.jpg",
+  "width": 1228,
+  "height": 1474,
+  "source": "reference/batch3/IMG_7967.jpg + reference/icons/20070525_190630_013.jpg",
+  "quality": "good",
+  "note": "today's photo rectified (today's colour); lighting evened with the registered 2007 photo (140 matches)"
+ },
+ {
+  "path": "textures/icons/antony.jpg",
+  "width": 1140,
+  "height": 1502,
+  "source": "reference/batch3/IMG_7969.jpg + reference/icons/20070525_190617_012.jpg",
+  "quality": "good",
+  "note": "today's photo rectified (today's colour); lighting evened with the registered 2007 photo (121 matches)"
+ },
+ {
+  "path": "textures/icons/mina.jpg",
+  "width": 1216,
+  "height": 1536,
+  "source": "reference/batch3/IMG_7974.jpg + reference/icons/20070525_190804_014.jpg",
+  "quality": "good",
+  "note": "today's photo rectified (today's colour); lighting evened with the registered 2007 photo (578 matches)"
+ },
+ {
+  "path": "textures/icons/abraam.jpg",
+  "width": 1211,
+  "height": 1536,
+  "source": "reference/batch3/IMG_7979.jpg + reference/icons/20070525_191010_015.jpg",
+  "quality": "good",
+  "note": "today's photo rectified (today's colour); lighting evened with the registered 2007 photo (1005 matches)"
+ },
+ {
+  "path": "textures/icons/resurrection.jpg",
+  "width": 1226,
+  "height": 1514,
+  "source": "reference/batch3/IMG_7983.jpg + reference/icons/20070525_191737_020.jpg",
+  "quality": "good",
+  "note": "today's photo rectified (today's colour); lighting evened with the registered 2007 photo (693 matches)"
+ },
+ {
+  "path": "textures/icons/ascension.jpg",
+  "width": 1184,
+  "height": 1536,
+  "source": "reference/batch3/IMG_7985.jpg + reference/icons/20070525_191706_019.jpg",
+  "quality": "good",
+  "note": "today's photo rectified (today's colour); lighting evened with the registered 2007 photo (392 matches)"
+ },
+ {
+  "path": "textures/icons/pentecost.jpg",
+  "width": 1170,
+  "height": 1472,
+  "source": "reference/batch3/IMG_7989.jpg + reference/icons/20070525_192128_021.jpg",
+  "quality": "good",
+  "note": "today's photo rectified (today's colour); lighting evened with the registered 2007 photo (693 matches)"
+ },
+ {
+  "path": "textures/icons/throne_christ.jpg",
+  "width": 854,
+  "height": 1512,
+  "source": "reference/IMG_4808.jpg",
+  "quality": "good",
+  "note": "bishop's throne icon; arched top: upper corners show the carved arch"
+ },
+ {
+  "path": "textures/icons/curtain_mary.jpg",
+  "width": 838,
+  "height": 1536,
+  "source": "reference/IMG_4819.jpg",
+  "quality": "good",
+  "note": "left door curtain (St Mary); outside of the arch filled with velvet colour"
+ },
+ {
+  "path": "textures/icons/curtain_christ.jpg",
+  "width": 1087,
+  "height": 1536,
+  "source": "reference/IMG_7899.jpg",
+  "quality": "ok",
+  "note": "centre royal door curtain (Christ), from a straight-on overview; outside of the arch filled with velvet colour"
+ },
+ {
+  "path": "textures/icons/curtain_right.jpg",
+  "width": 377,
+  "height": 576,
+  "source": "reference/batch3/IMG_7956.jpg",
+  "quality": "low",
+  "note": "right door curtain (St Mark with lion), velvet only: small (curtain is ~340 px wide in the only view), cut off above the lion's feet where a bench rail covers it, right edge is where the curtain is drawn back; outside of the arch filled with velvet colour"
+ },
+ {
+  "path": "textures/icons/stmark_relief.jpg",
+  "width": 768,
+  "height": 1536,
+  "source": "reference/batch3/IMG_7990.jpg",
+  "quality": "good",
+  "note": "hammered-copper St Mark relief above the back doors, rectified from below, forced to 1:2; matching height map stmark_relief_height.jpg"
+ },
+ {
+  "path": "textures/icons/stmark_relief_height.jpg",
+  "width": 768,
+  "height": 1536,
+  "source": "reference/batch3/IMG_7990.jpg",
+  "quality": "good",
+  "note": "grayscale height estimate from the photo's light/dark relief (bright = raised)"
+ },
+ {
+  "path": "textures/icons/crucifix.jpg",
+  "width": 1223,
+  "height": 1536,
+  "source": "reference/batch3/IMG_7954.jpg",
+  "quality": "ok",
+  "note": "crucifix cut-out (cross panel without its post); shot from below, height stretched to the proportions seen in the straight-on IMG_7899; background black"
+ },
+ {
+  "path": "textures/icons/crucifix_mary.jpg",
+  "width": 635,
+  "height": 977,
+  "source": "reference/batch3/IMG_7954.jpg",
+  "quality": "ok",
+  "note": "St Mary panel left of the crucifix; shot from below, height stretched to the proportions seen in the straight-on IMG_7899; background black"
+ },
+ {
+  "path": "textures/icons/crucifix_john.jpg",
+  "width": 603,
+  "height": 928,
+  "source": "reference/batch3/IMG_7954.jpg",
+  "quality": "ok",
+  "note": "St John panel right of the crucifix; shot from below, height stretched to the proportions seen in the straight-on IMG_7899; background black"
+ },
+ {
+  "path": "textures/icons/last_supper.jpg",
+  "width": 1536,
+  "height": 506,
+  "source": "reference/batch3/IMG_7952.jpg + reference/icons/20070525_191502_018.jpg",
+  "quality": "good",
+  "note": "today's photo (from below) registered into the straight-on 2007 view; the hanging egg cord and 7% of the panel outside today's frame are filled from the 2007 photo, colour-matched locally"
+ }
+]

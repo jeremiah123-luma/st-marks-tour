@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.blend1
+.venv/
+node_modules/
+.wrangler/
+CLAUDE.md
+
+# regenerated
+web/dist/
+web/public/tex/
+web/screenshots/
+web/test-results/
+blender/previews/
+blender/export_cache/

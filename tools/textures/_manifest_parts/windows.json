@@ -1,0 +1,82 @@
+[
+ {
+  "path": "textures/windows/abraham.jpg",
+  "width": 461,
+  "height": 2048,
+  "source": "reference/windows/IMG_1928.jpeg",
+  "quality": "good",
+  "note": "rectified to the glass only (outer lead line of the wheat border), black outside the arch, mullion bars kept; panel exposure gains [0.95, 1.0, 1.05]. "
+ },
+ {
+  "path": "textures/windows/david.jpg",
+  "width": 467,
+  "height": 2048,
+  "source": "reference/windows/IMG_1929.jpeg",
+  "quality": "good",
+  "note": "rectified to the glass only (outer lead line of the wheat border), black outside the arch, mullion bars kept; panel exposure gains [0.98, 1.0, 1.08]. "
+ },
+ {
+  "path": "textures/windows/three_youths.jpg",
+  "width": 470,
+  "height": 2048,
+  "source": "reference/windows/IMG_1930.jpeg",
+  "quality": "good",
+  "note": "rectified to the glass only (outer lead line of the wheat border), black outside the arch, mullion bars kept; panel exposure gains [1.0, 1.18]. "
+ },
+ {
+  "path": "textures/windows/moses.jpg",
+  "width": 473,
+  "height": 2048,
+  "source": "reference/windows/IMG_1931.jpeg",
+  "quality": "good",
+  "note": "rectified to the glass only (outer lead line of the wheat border), black outside the arch, mullion bars kept; panel exposure gains [1.0, 0.93, 1.04]. "
+ },
+ {
+  "path": "textures/windows/daniel.jpg",
+  "width": 436,
+  "height": 2048,
+  "source": "reference/windows/IMG_1932.jpeg",
+  "quality": "good",
+  "note": "rectified to the glass only (outer lead line of the wheat border), black outside the arch, mullion bars kept; panel exposure gains [0.91, 1.0, 1.15]. "
+ },
+ {
+  "path": "textures/windows/storm.jpg",
+  "width": 478,
+  "height": 2048,
+  "source": "reference/windows/IMG_1926.jpeg",
+  "quality": "good",
+  "note": "rectified to the glass only (outer lead line of the wheat border), black outside the arch, mullion bars kept; panel exposure gains [1.0, 1.03]. "
+ },
+ {
+  "path": "textures/windows/samaritan.jpg",
+  "width": 465,
+  "height": 2048,
+  "source": "reference/windows/IMG_1925.jpeg",
+  "quality": "good",
+  "note": "rectified to the glass only (outer lead line of the wheat border), black outside the arch, mullion bars kept; panel exposure gains [1.0]. "
+ },
+ {
+  "path": "textures/windows/egypt.jpg",
+  "width": 471,
+  "height": 2048,
+  "source": "reference/windows/IMG_1922.jpeg",
+  "quality": "good",
+  "note": "rectified to the glass only (outer lead line of the wheat border), black outside the arch, mullion bars kept; panel exposure gains [0.96, 1.0, 1.02]. "
+ },
+ {
+  "path": "textures/windows/lazarus.jpg",
+  "width": 477,
+  "height": 2048,
+  "source": "reference/windows/IMG_1923.jpeg",
+  "quality": "good",
+  "note": "rectified to the glass only (outer lead line of the wheat border), black outside the arch, mullion bars kept; panel exposure gains [1.0, 0.95, 1.09]. "
+ },
+ {
+  "path": "textures/windows/healing.jpg",
+  "width": 874,
+  "height": 2048,
+  "source": "reference/windows/IMG_1924.jpeg",
+  "quality": "good",
+  "note": "rectified to the glass only (outer lead line of the wheat border), black outside the arch, mullion bars kept; panel exposure gains [1.0, 1.0]. "
+ }
+]

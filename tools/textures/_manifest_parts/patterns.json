@@ -1,0 +1,58 @@
+[
+ {
+  "path": "textures/patterns/marquetry_cross.jpg",
+  "width": 1024,
+  "height": 1024,
+  "source": "reference/IMG_4812.jpg",
+  "quality": "good",
+  "note": "cross-and-star marquetry, exactly 2 x 2 lattice periods (one period = one cross spacing), tiles in both directions; rectified from a low viewpoint, lighting flattened, seam cross-faded with the true continuation of the pattern"
+ },
+ {
+  "path": "textures/patterns/marquetry_cross_height.jpg",
+  "width": 1024,
+  "height": 1024,
+  "source": "reference/IMG_4812.jpg",
+  "quality": "ok",
+  "note": "height estimate from luminance (light cross = high, dark grooves/mouldings = low), grain smoothed; same tiling as marquetry_cross.jpg; a guess, not measured relief"
+ },
+ {
+  "path": "textures/patterns/bead_lattice.jpg",
+  "width": 1024,
+  "height": 1024,
+  "source": "reference/batch3/IMG_7951.jpg",
+  "quality": "good",
+  "note": "turned-bead lattice, 8 x 8 cells = 4 x 4 lattice periods (one period = bead, block, bead offset by half a pitch on the next row), tiles in both directions; rectified from a close shot taken from below, so the beads show a little of their underside; colour moved part-way toward the straight-on view in IMG_7899"
+ },
+ {
+  "path": "textures/patterns/bead_lattice_height.jpg",
+  "width": 1024,
+  "height": 1024,
+  "source": "reference/batch3/IMG_7951.jpg",
+  "quality": "ok",
+  "note": "height estimate: backing board low, dark square blocks a flat mid plateau, beads and rods high (from brightness); same tiling as bead_lattice.jpg; a guess, not measured relief"
+ },
+ {
+  "path": "textures/patterns/runner.jpg",
+  "width": 768,
+  "height": 574,
+  "source": "reference/IMG_7885.jpg",
+  "quality": "ok",
+  "note": "aisle runner, full width (cream border to cream border plus ~3% dark red binding each side), tiles along its length (V) only; contains 3 repeats of the border motif (= 12 rows-pairs of the small field motif); real aspect of this tile width:length = 1:0.747, so one border repeat is about 0.249 x the runner width (~23 cm if the runner is ~0.9 m wide); rectified from a 0.5x overview with EXIF focal length, +-5% on the aspect; soft because the source is a dim wide-angle shot"
+ },
+ {
+  "path": "textures/patterns/carpet_red.jpg",
+  "width": 1024,
+  "height": 1024,
+  "source": "reference/IMG_7899.jpg",
+  "quality": "good",
+  "note": "plain red carpet, about 1 m x 1 m, tiles in both directions; floor patch in front of the royal door rectified with the EXIF focal length, lint specks inpainted, vacuum marks and light falloff flattened; pile detail is fine-grained only"
+ },
+ {
+  "path": "textures/patterns/pew_inlay.jpg",
+  "width": 780,
+  "height": 780,
+  "source": "reference/IMG_7899.jpg",
+  "quality": "ok",
+  "note": "square inlaid panel (four diagonal inlaid bars and four lozenges with mother-of-pearl in a moulded star), rectified and cropped to the panel incl. its star points. Taken from the front of the right LECTERN, which carries the same inlay design as the pew ends: no photo shows a pew end close or straight enough (they are small, dark and oblique in every shot). Dark exposure lifted. A straight-on close-up of one pew end would replace this."
+ }
+]
